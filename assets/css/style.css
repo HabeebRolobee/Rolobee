@@ -91,7 +91,8 @@ h6 {
 }
 
 #header .logo img {
-  max-height: 150px;
+  max-height: 140px;
+  margin-top: 10px;
 }
 
 /*--------------------------------------------------------------
@@ -566,7 +567,7 @@ section {
 }
 
 .section-title {
-  text-align: center;
+ text-align: center;
   padding-bottom: 30px;
 }
 
@@ -575,6 +576,7 @@ section {
   font-weight: bold;
   text-transform: uppercase;
   margin-bottom: 20px;
+  margin-left: 500;
   padding-bottom: 0;
   color: #5c9f24;
 }
@@ -1057,32 +1059,33 @@ section {
   transition: margin 0.2s;
   
 }
-/* .h41{
-  margin-left:50%;
+ .h41{
+  margin-left:auto;
 }
 .h42{
-  margin-left:50%;
+  margin-left:auto;
 }
 
 .h43{
-  margin-left:50%;
+  margin-left:auto;
 }
 .h44{
-  margin-left:50%;
+  margin-left:auto;
 }
 .h45{
-  margin-left:50%;
+  margin-left:auto;
   
 }
 .h46{
-  margin-left:50%;
-} */
+  margin-left:auto;
+} 
 
 .team .member:hover .member-info {
   background: rgba(0, 0, 0, 0.7);
   opacity: 1;
   transition: 0.4s;
-  width: 200px;
+  width: 307px;
+  margin-left: auto;
 }
 
 .team .member:hover .member-info-content {
